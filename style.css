@@ -32,12 +32,18 @@ a {
 
 .timao {
     
-    text-align: right;
+    text-align: center;
 
 }
 
 #img1 {
 
     display: inline-block;
+
+}
+
+.maior {
+
+    text-align: center;
 
 }
