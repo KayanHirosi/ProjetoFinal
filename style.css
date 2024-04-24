@@ -39,11 +39,20 @@ a {
 #img1 {
 
     display: inline-block;
+    margin-left: 42%;
 
 }
 
 .maior {
 
     text-align: center;
+
+}
+
+#img3 {
+
+    margin-left: 48%;
+    width: 30%;
+    margin-top: -33.3%;
 
 }
