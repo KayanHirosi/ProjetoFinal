@@ -19,6 +19,9 @@ h2{
 
 body {
     background-color: black;
+    border-color: red;
+    border-style: groove;
+    border-width: 50%;
 }
 
 a {
@@ -28,7 +31,13 @@ a {
 }
 
 .timao {
-
+    
     text-align: right;
+
+}
+
+#img1 {
+
+    display: inline-block;
 
 }
